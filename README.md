@@ -1,6 +1,11 @@
 # FFMPEG-Caption-Extraction
 Collection of windows batch files using FFMPEG to extract ANC Caption Data to various formats
 
+Usage:
+```
+batchfilename.bat <path\to\sourcefile.ext>
+```
+
 - [Extract to SCC](https://github.com/unsword01/FFMPEG-Caption-Extraction/blob/main/mk_scc_from_ANC_data.bat)\
   Sample Output:
   ```
