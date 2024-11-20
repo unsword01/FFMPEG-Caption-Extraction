@@ -1,4 +1,4 @@
-:: Extract CC Data to a WebVTT SCC file
+:: Extract CC Data to a WebVTT file
 
 :: Create escaped path for Source File
 set SOURCE=%1
