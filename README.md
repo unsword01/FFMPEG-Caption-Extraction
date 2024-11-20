@@ -5,6 +5,7 @@ Usage:
 ```
 batchfilename.bat <path\to\sourcefile.ext>
 ```
+Or just drag/drop a media file onto the batch file
 
 - [Extract to SCC](https://github.com/unsword01/FFMPEG-Caption-Extraction/blob/main/mk_scc_from_ANC_data.bat)\
   Sample Output:
